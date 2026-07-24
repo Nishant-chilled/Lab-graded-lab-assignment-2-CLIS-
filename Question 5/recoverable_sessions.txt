@@ -1,0 +1,17 @@
+Swap files found:
+   In directory ./vim-recovery-data/swap//:
+1.    %Users%nishant_gchilled%Desktop%Staff graded assignment-2 CLIS%Question 5%critical.conf.swp
+          owned by: nishant_gchilled   dated: Fri Jul 24 21:53:26 2026
+         file name: ~nishant_gchilled/Desktop/Staff graded assignment-2 CLIS/Question 5/critical.conf
+          modified: YES
+         user name: nishant_gchilled   host name: Nishants-MacBook-Pro.local
+        process ID: 76495
+   In current directory:
+      -- none --
+   In directory ~/tmp:
+      -- none --
+   In directory /var/tmp:
+      -- none --
+   In directory /tmp:
+      -- none --
+

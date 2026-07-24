@@ -1,0 +1,5 @@
+Created employee_records.dat and wrote 3 fixed-size employee records.
+Before update: id=102, name=Meera Das, salary=62000.00
+After update: id=102, name=Meera Das, salary=67500.00
+Retrieved record at index 2: id=103, name=Rohan Singh, salary=58000.00
+File descriptor closed successfully.

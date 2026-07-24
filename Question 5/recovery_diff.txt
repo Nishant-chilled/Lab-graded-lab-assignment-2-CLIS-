@@ -1,0 +1,11 @@
+--- critical.conf.before-crash	2026-07-24 20:37:55
++++ critical.conf.recovered	2026-07-24 22:05:03
+@@ -1,5 +1,5 @@
+ # Sample critical configuration file
+ server_name=university.example
+ port=8080
+-max_connections=100
+-logging=enabled
+\ No newline at end of file
++max_connections=250
++logging=enabled

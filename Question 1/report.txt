@@ -1,0 +1,7 @@
+Submission Processing Report
+============================
+Source directory : submissions
+Backup directory : backup_unique
+Files processed  : 5
+Duplicates found : 2
+Unique files backed up: 3

@@ -1,0 +1,7 @@
+Monitoring sample_app.log. Press Ctrl+C to stop.
+2026-07-24 20:10:01 INFO  Server started
+2026-07-24 20:10:02 ERROR Database connection failed
+2026-07-24 20:10:03 WARN  Retrying connection
+2026-07-24 20:10:04 ERROR Retry limit exceeded
+./monitor_errors.sh: line 56: unexpected EOF while looking for matching `"'
+./monitor_errors.sh: line 57: syntax error: unexpected end of file
